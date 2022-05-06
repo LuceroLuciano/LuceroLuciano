@@ -1,6 +1,6 @@
-## Hola! Soy Lucero 👋
+## Hola!,  Soy Lucero 👋
 
-### Explorer en Launchx y viajera en Innovacción Virtual. 🚀 <br> Me enecanta la comunidad porque es una manera de aprender y compartir el conocimiento.
+#### Explorer en Launchx y viajera en Innovacción Virtual. 🚀 <br> Me enecanta la comunidad porque es una manera de aprender y compartir el conocimiento.
 
 
 ```ruby
@@ -17,7 +17,7 @@ def frase():
 print(frase())
 ```
 
-### Thank you for visit my profile. ✨ 
+#### Thank you for visit my profile. ✨ 
 
 <!--
 **LuceroLuciano/LuceroLuciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
