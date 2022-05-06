@@ -7,7 +7,7 @@
 const info = {
     pronombres: "She | Her  😄", 
     aprendizaje: "Aprendiendo NodeJS en Launchx 👩‍💻",
-    coigo: "Java Script, Python, HTML, CSS 🍀"
+    codigo: "Java Script, Python, HTML, CSS 🍀"
 }
 ```
 
