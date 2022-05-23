@@ -5,7 +5,7 @@
 ### About Me 
 ```   
  😄 Pronouns: She, Her 
- 🔭 I’m currently working on:  'Java Script', 'Python', 'HTML', 'CSS'
+ 🔭 I’m currently working on: Java Script, Python, HTML, CSS
  🌱 I’m currently learning: Nodejs and Data Analysis   
 
 ```
