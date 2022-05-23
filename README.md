@@ -1,20 +1,18 @@
-## Hola!,  Soy Lucero 👋
+# Hi there 👋!  
 
-#### Explorer en Launchx y viajera en Innovacción Virtual. 🚀 <br> Me encanta la comunidad porque es una manera de aprender y compartir el conocimiento.
+#### I'm Lucero, Explorer for LauchX and trveler for Innovaccion Virtual, <br> I love the community because is a way to learn and sharing the knowledge.
 
+### About Me 
+```   
+ 😄 Pronouns: She, Her 
+ 🔭 I’m currently working on:  'Java Script', 'Python', 'HTML', 'CSS'
+ 🌱 I’m currently learning: Nodejs and Data Analysis   
 
-```ruby
-const info = {
-    pronombres: "She | Her  😄", 
-    aprendizaje: "Aprendiendo NodeJS en Launchx 👩‍💻",
-    codigo: "Java Script, Python, HTML, CSS 🍀"
-}
 ```
 
-```ruby
-def frase():
-    return 'La mejor forma de aprender es compartiendo lo que sabes.'
-print(frase())
+```python
+def phrase():
+    return 'The best way to learn is sharing that you know.'
 ```
 
 #### Thank you for visit my profile. ✨ 
