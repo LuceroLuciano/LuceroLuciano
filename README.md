@@ -1,6 +1,6 @@
 # Hi there 👋!  
 
-#### I'm Lucero, explorer for LauchX and trveler for Innovaccion Virtual, <br> I love the community because is a way to learn and sharing the knowledge.
+#### I'm Lucero, explorer at LauchX and trveler at Innovaccion Virtual, <br> I love the community because is a way to learn and sharing the knowledge.
 
 ### About Me 
 ```   
