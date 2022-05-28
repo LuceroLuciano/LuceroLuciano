@@ -18,7 +18,7 @@ def phrase():
     return 'The best way to learn is sharing that you know.'
 ```
 
-#### Thank you for visit my profile. ✨ 
+#### Thank you for visit my profile ✨ 
 
 <!--
 **LuceroLuciano/LuceroLuciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
