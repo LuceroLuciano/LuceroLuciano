@@ -1,8 +1,11 @@
-# Hi there 👋!  
+# Hi there 👋  I'm Lucero! 
 
-#### I'm Lucero, explorer at LauchX and trveler at Innovaccion Virtual, <br> I love the community because is a way to learn and sharing the knowledge.
+## A little about me:
 
-### About Me 
+#### I'm  Software developer. Studied Computer System Engineering.  </br> I been developing my skills at bootcamp Launchx by Innovaccion Virtual for three months.</br>   Recently I’m amplifying my knowledge about data analysis. </br> 
+
+
+
 ```   
  😄 Pronouns: She, Her 
  🔭 I’m currently working on: Java Script, Python, HTML, CSS
