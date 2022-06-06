@@ -2,7 +2,7 @@
 
 ## A little about me:
 
-#### I'm  Software developer. Studied Computer System Engineering.  </br> I been developing my skills at bootcamp Launchx by Innovaccion Virtual for three months.</br>   Recently I’m amplifying my knowledge about data analysis. </br> 
+#### I'm  Software developer. Studied Computer System Engineering.  </br> I been developing my skills as developer at bootcamp Launchx by Innovaccion Virtual for three months.</br>   Recently I’m amplifying my knowledge about data analysis. </br> 
 
 
 
