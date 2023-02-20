@@ -5,7 +5,7 @@
 <p align="center" border-radius="50%">
   <img align='right' src="https://user-images.githubusercontent.com/83784155/219974218-41b45e45-603e-4584-8490-aab84f600dbc.gif" width="25%">
 </p>
-<p><em>Computer Systems Engineering - <a href="https://umb.edomex.gob.mx/">UMB 👩‍💻</a></br>Web Developer 💜👩‍💻
+<p><em>Computer Systems Engineering - <a href="https://umb.edomex.gob.mx/">UMB 👩‍💻</a></br>Backend Developer in training 💜👩‍💻
 </em></p>
 
 <br>
