@@ -37,9 +37,10 @@ const Luz = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python],
   tools: [NodeJS, Docker, Azure, Figma, PostgreSQL, MySQL, Git, Postman],
+  proyects: ["Safe Places", "Badget"],
   techCommunities: {
-                        mentor: "Tecnolochicas PRO"
-                      },
+                        mentor: "Tecnolochicas PRO"                        
+                      }
  challenge: "I am doing the bootcamp hackwomen.dev challenge focused on Web Developer"
 }
 ```
