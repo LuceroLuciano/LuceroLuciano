@@ -5,7 +5,9 @@
 <p align="center" border-radius="50%">
   <img align='right' src="https://user-images.githubusercontent.com/83784155/219974218-41b45e45-603e-4584-8490-aab84f600dbc.gif" width="25%">
 </p>
-<p><em>Computer Systems Engineering - <a href="https://umb.edomex.gob.mx/">UMB 👩‍💻</a></br>Backend Developer in training 💜👩‍💻
+
+<p><em>Backend Developer in training - <a href="https://hackwomen.dev//">Hackwomen.dev 💜👩‍💻</em></p>
+<p><em>Computer Systems Engineering   <!-- - <a href="https://umb.edomex.gob.mx/">UMB 👩‍💻</a> -->
 </em></p>
 
 <br>
@@ -21,13 +23,16 @@ def message():
 
 ## A little about me:
 
-I'm web developer in training at [Hackwomen.dev](https://hackwomen.dev/) and I'm also student of [Alura LATAM](https://www.aluracursos.com/). Mentor at [Epic Queen](https://epicqueen.com/) in the project [Tecnolochicas PRO](https://tecnolochicas.mx/) where I shared knowledge with girls interested and passionate as I in tecnology and programming. Recently I participated in the Wolk challenge for the Microsoft Partner [Wolk Lab](https://www.wolklab.com/) where I had the opportunity to solve three challenges associated with M365, Azure and Adoption. 
+I'm software developer in training at [Hackwomen.dev](https://hackwomen.dev/) and I'm also student of [Oracle One Education | Alura LATAM](https://www.aluracursos.com/). Mentor at [Epic Queen](https://epicqueen.com/) in the project [Tecnolochicas PRO](https://tecnolochicas.mx/) where I shared knowledge with girls interested and passionate as I in tecnology and programming. I'm a lover of the technological community and I love sharing what I know.
+
+<!--Recently I participated in the Wolk challenge for the Microsoft Partner [Wolk Lab](https://www.wolklab.com/) where I had the opportunity to solve three challenges associated with M365, Azure and Adoption. -->
 
 <!--
 ```   
  😄 Pronouns: She, Her 
- 🔭 I’m currently working on personal projects
- 🌱 I’m currently learning: Nodejs and Data Analysis  
+ 🔭 I’m currently working on badge proyect
+ 🌱 I’m currently learning: Nodejs and Data Analysis 
+ 💬 Ask me about Cloud and tecnology
 
 ```
 -->
@@ -37,9 +42,10 @@ const Luz = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python],
   tools: [NodeJS, Docker, Azure, Figma, PostgreSQL, MySQL, Git, Postman],
-  proyects: ["Safe Places", "Badget"],
+  proyects: ["Safe Places", "Badgets"],
   techCommunities: {
-                        mentor: "Tecnolochicas PRO"                        
+                        mentor: "Tecnolochicas PRO",
+                        hack: "Hackwomen.dev"
                       }
  challenge: "I am doing the bootcamp hackwomen.dev challenge focused on Web Developer"
 }
