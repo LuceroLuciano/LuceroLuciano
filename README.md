@@ -58,7 +58,7 @@ const Luz = {
 ![Twitter Follow](https://img.shields.io/twitter/follow/Luz61502465?label=Twitter&style=social)
 [LinkedIn](https://www.linkedin.com/in/luz-cero/)
 
-## <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you ☺️✨ </em>
+### <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you ☺️✨ </em>
 
 
 
