@@ -7,7 +7,7 @@
 </p>
 
 <p><em>Backend Developer in training - <a href="https://hackwomen.dev//">Hackwomen.dev 💜👩‍💻</em></p>
-<p><em>Computer Systems Engineering   <!-- - <a href="https://umb.edomex.gob.mx/">UMB 👩‍💻</a> -->
+<!-- <p><em>Computer Systems Engineering   - <a href="https://umb.edomex.gob.mx/">UMB 👩‍💻</a> -->
 </em></p>
 
 <br>
@@ -15,15 +15,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/LuceroLuciano?style=social)
 
 
-```python
+<!-- ```python
 def message():
     return 'The best way to learn is sharing that you know.'
-```
+``` -->
 
 
 ## A little about me:
 
-I'm software developer in training at [Hackwomen.dev](https://hackwomen.dev/) and I'm also student of [Oracle One Education | Alura LATAM](https://www.aluracursos.com/). Mentor at [Epic Queen](https://epicqueen.com/) in the project [Tecnolochicas PRO](https://tecnolochicas.mx/) where I shared knowledge with girls interested and passionate as I in tecnology and programming. I'm a lover of the technological community and I love sharing what I know.
+****Software developer in training at [Hackwomen.dev](https://hackwomen.dev/) and I'm also student of [Oracle One Education | Alura LATAM](https://www.aluracursos.com/). Mentor at [Epic Queen](https://epicqueen.com/) in the project [Tecnolochicas PRO](https://tecnolochicas.mx/) <!--where I shared knowledge with girls interested and passionate as I in tecnology and programming.--> I'm a lover of the technological community and I love sharing what I know.****
 
 <!--Recently I participated in the Wolk challenge for the Microsoft Partner [Wolk Lab](https://www.wolklab.com/) where I had the opportunity to solve three challenges associated with M365, Azure and Adoption. -->
 
@@ -40,14 +40,15 @@ I'm software developer in training at [Hackwomen.dev](https://hackwomen.dev/) an
 ```javascript
 const Luz = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [NodeJS, Docker, Azure, Figma, PostgreSQL, MySQL, Git, Postman],
+  code: ['Javascript', 'Python', 'HTML', 'CSS'],
+  tools: ['NodeJS', 'Docker', 'Azure', 'Figma', 'PostgreSQL', 'MySQL', 'Git', 'Postman', 'Scrum', 'Sequelize', 'Express' ],
+  knowledge: ['API', 'Relational Data bases' ]
   proyects: ["Safe Places", "Badgets"],
   techCommunities: {
                         mentor: "Tecnolochicas PRO",
-                        hack: "Hackwomen.dev"
+                        developer: "Hackwomen.dev"
                       }
- challenge: "I am doing the bootcamp hackwomen.dev challenge focused on Web Developer"
+ challenge: "I am doing the bootcamp hackwomen.dev challenge focused on Software Developer"
 }
 ```
 
