@@ -47,7 +47,7 @@ const Luz = {
   techCommunities: {
                         mentor: "Tecnolochicas PRO",
                         developer: "Hackwomen.dev"
-                      }
+                      },
  challenge: "I am doing the bootcamp hackwomen.dev challenge focused on Software Developer"
 }
 ```
