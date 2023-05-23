@@ -42,7 +42,7 @@ const Luz = {
   pronouns: "she" | "her",
   code: ['Javascript', 'Python', 'HTML', 'CSS'],
   tools: ['NodeJS', 'Docker', 'Azure', 'Figma', 'PostgreSQL', 'MySQL', 'Git', 'Postman', 'Scrum', 'Sequelize', 'Express' ],
-  knowledge: ['API', 'Relational Data bases' ]
+  knowledge: ['API', 'Relational Data bases' ],
   proyects: ["Safe Places", "Badgets"],
   techCommunities: {
                         mentor: "Tecnolochicas PRO",
