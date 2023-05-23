@@ -6,7 +6,7 @@
   <img align='right' src="https://user-images.githubusercontent.com/83784155/219974218-41b45e45-603e-4584-8490-aab84f600dbc.gif" width="25%">
 </p>
 
-<p><em>Backend Developer in training - <a href="https://hackwomen.dev//">Hackwomen.dev 💜👩‍💻</em></p>
+<p><em>software Developer in training - <a href="https://hackwomen.dev//">Hackwomen.dev 💜👩‍💻</em></p>
 <!-- <p><em>Computer Systems Engineering   - <a href="https://umb.edomex.gob.mx/">UMB 👩‍💻</a> -->
 </em></p>
 
