@@ -23,7 +23,7 @@ def message():
 
 ## A little about me:
 
-****Software developer in training at [Hackwomen.dev](https://hackwomen.dev/) and I'm also student of [Oracle One Education | Alura LATAM](https://www.aluracursos.com/). Mentor at [Epic Queen](https://epicqueen.com/) in the project [Tecnolochicas PRO](https://tecnolochicas.mx/) <!--where I shared knowledge with girls interested and passionate as I in tecnology and programming.--> I'm a lover of the technological community and I love sharing what I know.****
+****Software developer in training at [Hackwomen.dev](https://hackwomen.dev/) and I'm also student of [Oracle One Education | Alura LATAM](https://www.aluracursos.com/). Mentor at [Epic Queen](https://epicqueen.com/) in the project [Tecnolochicas PRO](https://tecnolochicas.mx/). <!--where I shared knowledge with girls interested and passionate as I in tecnology and programming.--> I'm a lover of the technological community and I love sharing that I know.****
 
 <!--Recently I participated in the Wolk challenge for the Microsoft Partner [Wolk Lab](https://www.wolklab.com/) where I had the opportunity to solve three challenges associated with M365, Azure and Adoption. -->
 
